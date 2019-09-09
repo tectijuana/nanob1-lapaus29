@@ -1,7 +1,7 @@
 ![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
 
 <a href="https://cooltext.com"><img src="http://r77.cooltext.com/rendered/cooltext335134370597572.gif" width="300" height="150
-  " alt="T E M P L E T E" aling="middle"/></a>
+  " alt="T E M P L E T E" align="middle"/></a>
 
 Plantilla generica de todo repositorio.
 
